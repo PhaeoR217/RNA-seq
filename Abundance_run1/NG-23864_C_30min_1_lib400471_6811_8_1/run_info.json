@@ -1,0 +1,13 @@
+{
+	"n_targets": 12215,
+	"n_bootstraps": 0,
+	"n_processed": 39972627,
+	"n_pseudoaligned": 28339069,
+	"n_unique": 26703767,
+	"p_pseudoaligned": 70.9,
+	"p_unique": 66.8,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Tue Mar 21 14:26:51 2023",
+	"call": "kallisto quant -i Phaeodactylum_tricornutum.ASM15095v2.cdna.all.kallisto.index -o . -t 10 --single -l 200 -s 30 NG-23864_C_30min_1_lib400471_6811_8_1.clean.fq.gz"
+}
